@@ -15,10 +15,12 @@ To check if you forget whether you do some change on local : git status
 When pulling new schematic files or any other virtuoso files, here would be an access lock. For example, there is a schematic file name "add", created by "hy2891" on host "cadpc09.ee.columbia.edu", the access is defined in file "sdclck", under "./add/schematic/sch.oa.cdslck.RHEL30.*****", change two lines in file from:
 
 LoginName                      hy2891
+
 HostName                       cadpc09.ee.columbia.edu
 
 to:
 LoginName                      <your uni>
+
 HostName                       <your host>
 
 Then you will get the full access to schematics.
