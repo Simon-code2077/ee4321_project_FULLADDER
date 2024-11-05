@@ -8,8 +8,14 @@ vscode is a good way to make changes to any no_gui files. Check: https://blog.cs
 To have ssh access, please check https://docs.github.com/zh/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
 
 ## git repo
-To set-up, cd into your work root, type : git clone git@github.com:Simon-code2077/ee4321_project.git
-To do the pull, get the new files from repo, type : git pull
+To set-up, cd into your work root, type : 
+```
+git clone git@github.com:Simon-code2077/ee4321_project.git
+```
+To do the pull, get the new files from repo, type : 
+```
+git pull
+```
 To do the push, update your work to repo, type :   
 ```
 git add .
