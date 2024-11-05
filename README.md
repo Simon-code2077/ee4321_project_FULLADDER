@@ -33,3 +33,5 @@ LoginName                      <your uni>
 HostName                       <your host>
 ```
 Then you will get the full access to schematics.
+
+Attention, you can just use cell library to edit the access of the files!
