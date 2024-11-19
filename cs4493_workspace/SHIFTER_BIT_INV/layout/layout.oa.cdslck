@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      hy2891
+HostName                       cadpc02.ee.columbia.edu
+ProcessIdentifier              3436548
+ProcessCreationTime_UTC        1731978812
+ProcessCreationTime_Readable   Mon Nov 18 20:13:32 2024 EST
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /homes/user/stud/fall24/hy2891/cadence/VLSI_Project/SHIFTER_BIT_INV/layout/layout.oa.cdslck
+TimeEditLocked                 Tue Nov 19 09:25:26 2024 EST
