@@ -12,5 +12,5 @@ ProcessCreationTime_Readable   Sat Dec  7 11:48:29 2024 EST
 AppIdentifier                  /tools/cadence/IC618.270/tools.lnx86/dfII/bin/64bit/virtuoso
 OSType                         lnx86
 ReasonForPlacingEditLock       
-FilePathUsedToEditLock         /homes/user/stud/fall24/cs4493/Cadence/VLSI_Project/FULL_ADDER_BIT/physConfig/physExpand.cfg
-TimeEditLocked                 Sat Dec  7 11:57:39 2024 EST
+FilePathUsedToEditLock         /homes/user/stud/fall24/cs4493/Cadence/VLSI_Project/FULL_ADDER_INV/physConfig/physExpand.cfg
+TimeEditLocked                 Sat Dec  7 11:53:58 2024 EST
