@@ -1,0 +1,8 @@
+// "spectre" description for "VLSI_Project", "SRAM_BIT_TEST", "Spectre" 
+
+
+simulator lang=spectre
+
+subckt SRAM_BIT_TEST
+
+ends SRAM_BIT_TEST
