@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      hy2891
+HostName                       cadpc02.ee.columbia.edu
+ProcessIdentifier              22288
+ProcessCreationTime_UTC        1730941840
+ProcessCreationTime_Readable   Wed Nov  6 20:10:40 2024 EST
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /homes/user/stud/fall24/hy2891/Cadence/VLSI_Project/FULL_ADDER_SUM/schematic/sch.oa.cdslck
+TimeEditLocked                 Wed Nov  6 23:36:18 2024 EST

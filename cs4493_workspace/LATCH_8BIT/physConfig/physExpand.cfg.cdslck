@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      cs4493
+HostName                       cadpc10.ee.columbia.edu
+ProcessIdentifier              2505735
+ProcessCreationTime_UTC        1733844530
+ProcessCreationTime_Readable   Tue Dec 10 10:28:50 2024 EST
+AppIdentifier                  /tools/cadence/IC618.270/tools.lnx86/dfII/bin/64bit/virtuoso
+OSType                         lnx86
+ReasonForPlacingEditLock       
+FilePathUsedToEditLock         /homes/user/stud/fall24/cs4493/Cadence/VLSI_Project/LATCH_8BIT/physConfig/physExpand.cfg
+TimeEditLocked                 Tue Dec 10 12:36:34 2024 EST
